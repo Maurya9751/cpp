@@ -1,0 +1,5 @@
+pos := 0
+while index = first occurrence of sub_str into the str in range pos to end of the string, do
+   print the index as there is a match
+   pos := index + 1
+done
